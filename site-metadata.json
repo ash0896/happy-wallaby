@@ -3,7 +3,7 @@
     "palette": "blue",
     "header": {
         "logo_img": "images/UU_logo.jpg",
-        "logo_img_alt": "Logo",
+        "logo_img_alt": "",
         "has_nav": true,
         "nav_links": [
             {
