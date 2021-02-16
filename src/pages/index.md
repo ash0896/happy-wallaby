@@ -6,9 +6,13 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: 'A3 adenosine GPCR: Mutagenesis study'
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >+
+      A comprehensive mutagenesis study of the A3 adenosine receptor in
+      collaboration with the experimental group of Barcelona (Gemma Navarro,
+      Biochemistry).
+
+
+
     actions:
       - label: Learn More
         url: /features
